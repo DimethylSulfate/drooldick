@@ -1,0 +1,2 @@
+# drooldick
+THE DROOLER'S DICTIONARY

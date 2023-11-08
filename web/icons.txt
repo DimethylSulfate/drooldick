@@ -8,3 +8,5 @@ Timelines: 3B630B, square
 * Malice: https://game-icons.net/1x1/lorc/radioactive.html
 * Mundane: https://game-icons.net/1x1/delapouite/pencil.html
 * Mystery: https://game-icons.net/1x1/lorc/circuitry.html
+
+Serotype: 0a113e, circle
